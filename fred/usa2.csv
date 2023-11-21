@@ -1,0 +1,158 @@
+nome,link
+National Accounts: National Accounts Deflators: Gross Domestic Product: GDP Deflator for United States,https://fred.stlouisfed.org/series/USAGDPDEFAISMEI
+Real Gross Domestic Product,https://fred.stlouisfed.org/series/GDPC1
+Real gross domestic product per capita,https://fred.stlouisfed.org/series/A939RX0Q048SBEA
+Gross Domestic Product,https://fred.stlouisfed.org/series/GDP
+Contributions to percent change in real gross domestic product: Gross private domestic investment: Change in private inventories,https://fred.stlouisfed.org/series/CPGDPAI
+Contributions to percent change in real gross domestic product: Gross private domestic investment: Change in private inventories,        https://fred.stlouisfed.org/series/DPCERY2Q224SBEA
+ Contributions to percent change in real gross domestic product: Gross private domestic investment: Change in private inventories,https://fred.stlouisfed.org/series/A014RY2Q224SBEA
+" Inflation, consumer prices for the United States",https://fred.stlouisfed.org/series/FPCPITOTLZGUSA
+ Federal Debt: Total Public Debt,https://fred.stlouisfed.org/series/GFDEBTN
+ Federal Debt: Total Public Debt as Percent of Gross Domestic Product,https://fred.stlouisfed.org/series/GFDEGDQ188S 
+" Interest Rates, Discount Rate for United States",https://fred.stlouisfed.org/series/INTDSRUSM193N
+ Federal Funds Effective Rate ,https://fred.stlouisfed.org/series/DFF 
+M2,https://fred.stlouisfed.org/series/WM2NS 
+M3,https://fred.stlouisfed.org/series/MABMM301USM189S
+M1,https://fred.stlouisfed.org/series/M2REAL
+M1,https://fred.stlouisfed.org/series/M1SL
+ Federal Debt: Total Public Debt as Percent of Gross Domestic Product ,https://fred.stlouisfed.org/series/GFDEGDQ188S
+Producer Price Index by Commodity: Retail Trade Services: Food and Alcohol Retailing,https://fred.stlouisfed.org/series/PCU311311
+Producer Price Index by Commodity: Retail Trade Services: Food and Alcohol Retailing,https://fred.stlouisfed.org/series/PFOODINDEXM
+Producer Price Index by Commodity: Retail Trade Services: Food and Alcohol Retailing,https://fred.stlouisfed.org/series/CPIUFDSL
+Producer Price Index by Commodity: Retail Trade Services: Food and Alcohol Retailing,https://fred.stlouisfed.org/series/WPS5811
+ Unit Labor Costs for Utilities: Natural Gas Distribution (NAICS 2212) in the United States,https://fred.stlouisfed.org/series/IPUBN211U101000000
+ Unit Labor Costs for Utilities: Natural Gas Distribution (NAICS 2212) in the United States,https://fred.stlouisfed.org/series/IPUCN2212U101000000
+ Producer Price Index by Industry: Nitrogenous Fertilizer Manufacturing,https://fred.stlouisfed.org/series/PCU325311325311
+ Median Consumer Price Index ,https://fred.stlouisfed.org/series/CPIAUCSL
+ Median Consumer Price Index,https://fred.stlouisfed.org/series/CORESTICKM159SFRBATL
+ Median Consumer Price Index,https://fred.stlouisfed.org/series/MEDCPIM158SFRBCLE
+Sticky Price Consumer Price Index less Food and Energy,https://fred.stlouisfed.org/series/CORESTICKM159SFRBATL 
+ Personal Consumption Expenditures,https://fred.stlouisfed.org/series/PCE
+Personal Consumption Expenditures (PCE) Excluding Food and Energy (chain-type price index) ,https://fred.stlouisfed.org/series/DPCCRV1Q225SBEA 
+Producer Price Index by Commodity: Metals and Metal Products,https://fred.stlouisfed.org/series/PPIACO
+Producer Price Index by Industry: Total Manufacturing Industries,https://fred.stlouisfed.org/series/PCUOMFGOMFG
+Producer Price Index by Industry: Steel Product Manufacturing from Purchased Steel,https://fred.stlouisfed.org/series/PCU33123312
+"Producer Price Index by Industry: Iron and Steel Pipe and Tube Manufacturing from Purchased Steel: Pipe and Tube, Carbon",https://fred.stlouisfed.org/series/PCU33121033121002
+ Producer Price Index by Commodity: All Commodities ,https://fred.stlouisfed.org/series/PPIACO
+Producer Price Index by Industry: Total Manufacturing Industries,https://fred.stlouisfed.org/series/PCUOMFGOMFG
+ Producer Price Index by Industry: Cement and Concrete Product Manufacturing ,https://fred.stlouisfed.org/series/PCU32733273
+ Producer Price Index by Industry: Truck Transportation ,https://fred.stlouisfed.org/series/PCU484484
+ Producer Price Index by Commodity: Metals and Metal Products,https://fred.stlouisfed.org/series/WPU10
+Purchase Only House Price Index for the United States,https://fred.stlouisfed.org/series/HPIPONM226S
+ Producer Price Index by Industry: Plastics Material and Resin Manufacturing,https://fred.stlouisfed.org/series/PCU325211325211
+University of Michigan: Consumer Sentiment,https://fred.stlouisfed.org/series/UMCSENT
+"All Employees, Total Nonfarm",https://fred.stlouisfed.org/series/PAYEMS
+"Average Hourly Earnings of All Employees, Total Private",https://fred.stlouisfed.org/series/CES0500000003
+" All Employees, Manufacturing",https://fred.stlouisfed.org/series/MANEMP
+"All Employees, Construction",https://fred.stlouisfed.org/series/USCONS
+Employment Level ,https://fred.stlouisfed.org/series/CE16OV
+Employment Cost Index: Wages and Salaries: Private Industry Workers,https://fred.stlouisfed.org/series/ECIWAG
+" All Employees, Government",https://fred.stlouisfed.org/series/USGOVT
+"Average Hourly Earnings of All Employees, Total Private ",https://fred.stlouisfed.org/series/CES0500000003
+Employment Cost Index: Wages and Salaries: Private Industry Workers ,https://fred.stlouisfed.org/series/ECIWAG
+"Average Hourly Earnings of All Employees, Manufacturing",https://fred.stlouisfed.org/series/CES3000000003
+"Average Hourly Earnings of All Employees, Construction",https://fred.stlouisfed.org/series/CES2000000003
+"Average Hourly Earnings of All Employees, Information",https://fred.stlouisfed.org/series/CES5000000003
+" Average Hourly Earnings of All Employees, Retail Trade",https://fred.stlouisfed.org/series/CES4200000003
+" Commercial Bank Interest Rate on Credit Card Plans, All Accounts ",https://fred.stlouisfed.org/series/TERMCBCCALLNS
+"Delinquency Rate on Credit Card Loans, Banks Ranked 1st to 100th Largest in Size by Assets",https://fred.stlouisfed.org/series/DRCCLT100S
+Unemployment Rate,https://fred.stlouisfed.org/series/UNRATE
+ Noncyclical Rate of Unemployment ,https://fred.stlouisfed.org/series/NROU
+"Unemployment Rate - Construction Industry, Private Wage and Salary Workers",https://fred.stlouisfed.org/series/LNU04032231
+ Continued Claims (Insured Unemployment),https://fred.stlouisfed.org/series/CCSA
+" All Employees, Total Nonfarm ",https://fred.stlouisfed.org/series/PAYEMS 
+ Advance Retail Sales: Retail Trade,https://fred.stlouisfed.org/series/RSXFS
+" Advance Retail Sales: Retail Trade and Food Services (RSAFS) 
+",https://fred.stlouisfed.org/series/RSAFS
+Retail Sales: Retail Trade ,https://fred.stlouisfed.org/series/MRTSSM44000USS
+"All Employees, Retail Trade",https://fred.stlouisfed.org/series/USTRADE
+Retail Sales: Used Car Dealers ,https://fred.stlouisfed.org/series/MRTSSM44112USN
+"Average Hourly Earnings of All Employees, Retail Trade",https://fred.stlouisfed.org/series/CES4200000003
+ Industrial Production: Manufacturing (NAICS) ,https://fred.stlouisfed.org/series/IPMAN
+ Industrial Production: Total Index ,https://fred.stlouisfed.org/series/INDPRO
+Industrial Production: Manufacturing (NAICS),https://fred.stlouisfed.org/series/IPMAN
+" Industrial Production: Utilities: Electric and Gas Utilities (NAICS = 2211,2)",https://fred.stlouisfed.org/series/IPUTIL
+ Industrial Production: Consumer Goods,https://fred.stlouisfed.org/series/IPCONGD
+ Industrial Production: Manufacturing: Durable Goods: Motor Vehicles and Parts (NAICS = 3361-3),https://fred.stlouisfed.org/series/IPG3361T3S
+Real Per Capita Personal Income for United States,https://fred.stlouisfed.org/series/RPIPCUS
+ Real Disposable Personal Income: Per Capita,https://fred.stlouisfed.org/series/A229RX0
+ Personal income per capita,https://fred.stlouisfed.org/series/A792RC0Q052SBEA
+"Households and Nonprofit Organizations; Net Worth, Level",https://fred.stlouisfed.org/series/TNWBSHNO
+"Households and Nonprofit Organizations; Net Worth as a Percentage of Disposable Personal Income, Level",https://fred.stlouisfed.org/series/HNONWPDPI
+" Households; Owners' Equity in Real Estate, Level",https://fred.stlouisfed.org/series/OEHRENWBSHNO
+ Producer Price Index by Commodity: Transportation Equipment: Motor Vehicles ,https://fred.stlouisfed.org/series/WPS1411
+ Freight Transportation Services Index,https://fred.stlouisfed.org/series/TSIFRGHTC
+" All Employees, Transportation and Warehousing",https://fred.stlouisfed.org/series/CES4300000001
+ Producer Price Index by Industry: Truck Transportation,https://fred.stlouisfed.org/series/PCU484484
+ Producer Price Index by Industry: Deep Sea Freight Transportation: Deep Sea Freight Transportation Services ,https://fred.stlouisfed.org/series/PCU4831114831115
+ Equity Market Volatility Tracker: Macroeconomic News and Outlook: Business Investment And Sentiment,https://fred.stlouisfed.org/series/EMVMACROBUS
+ Current General Business Conditions; Diffusion Index for New York,https://fred.stlouisfed.org/series/GACDISA066MSFRBNY
+"CSBS Community Bank Sentiment, Business Conditions Index ",https://fred.stlouisfed.org/series/CBSIBC
+CSBS Community Bank Sentiment Index ,https://fred.stlouisfed.org/series/CBSICO 
+ Business Tendency Surveys (Manufacturing): Confidence Indicators: Composite Indicators: OECD Indicator for United States ,https://fred.stlouisfed.org/series/BSCICP03USM665S
+ Households and Nonprofit Organizations; Personal Saving Excluding Consumer Durables,https://fred.stlouisfed.org/series/BOGZ1FA156007015Q
+"Nonfinancial Corporate Business; Consumption of Fixed Capital, Structures, Equipment, and Intellectual Property Products, Including Equity REIT Residential Structures",https://fred.stlouisfed.org/series/BOGZ1FA106300003Q
+"Real Estate Investment Trusts; Consumption of Fixed Capital, Nonresidential Entertainment, Literary, and Artistic Originals, Current Cost Basis, Transactions",https://fred.stlouisfed.org/series/BOGZ1FA646330053Q
+Personal consumption expenditures: Services: Household consumption expenditures: Transportation services: Public transportation: Air transportation,https://fred.stlouisfed.org/series/DAITRC1A027NBEA
+New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units in the Midwest Census Region,https://fred.stlouisfed.org/series/PERMITMW
+ New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units,https://fred.stlouisfed.org/series/PERMIT
+New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Total Units in the Northeast Census Region,https://fred.stlouisfed.org/series/PERMITNE
+ New Privately-Owned Housing Units Authorized in Permit-Issuing Places: Single-Family Units,https://fred.stlouisfed.org/series/PERMIT1
+Median Sales Price for New Houses Sold in the United States ,"https://fred.stlouisfed.org/series/MSPNHSUS"
+New One Family Houses Sold: United States,https://fred.stlouisfed.org/series/HSN1F
+ Monthly Supply of New Houses in the United States,https://fred.stlouisfed.org/series/MSACSR    
+ Average Sales Price for New Houses Sold in the United States,https://fred.stlouisfed.org/series/ASPNHSUS
+ New One Family Homes for Sale in the United States,https://fred.stlouisfed.org/series/HNFSEPUSSA
+Existing Home Sales,https://fred.stlouisfed.org/series/EXHOSLUSM495S
+ Median Sales Price of Existing Homes,https://fred.stlouisfed.org/series/HOSMEDUSM052N
+ Existing Single-Family Home Sales,https://fred.stlouisfed.org/series/EXSFHSUSM495S
+Median Sales Price of Existing Single-Family Homes,https://fred.stlouisfed.org/series/HSFMEDUSM052N
+ S&P/Case-Shiller U.S. National Home Price Index,https://fred.stlouisfed.org/series/CSUSHPISA
+"Trade Balance: Goods and Services, Balance of Payments Basis",https://fred.stlouisfed.org/series/BOPGSTB
+" Trade Balance: Goods, Balance of Payments Basis",https://fred.stlouisfed.org/series/BOPGTB
+Advance U.S. International Trade in Goods: Balance,https://fred.stlouisfed.org/series/AITGCBS
+ Export Price Index (End Use): All Commodities,https://fred.stlouisfed.org/series/IQ
+" Export Price Index (Harmonized System): Polymers of Ethylene, in Primary Forms ",https://fred.stlouisfed.org/series/ID3901
+ Export Price Index (End Use): Nonmonetary Gold,https://fred.stlouisfed.org/series/IQ12260
+ Net Exports of Goods and Services ,https://fred.stlouisfed.org/series/NETEXP
+Real Net Exports of Goods and Services,https://fred.stlouisfed.org/series/NETEXC
+ Exports of Goods and Services ,https://fred.stlouisfed.org/series/EXPGS
+ Export Price Index (NAICS): Semiconductor and Other Electronic Component Manufacturing,https://fred.stlouisfed.org/series/IY3344
+ Imports of Goods and Services ,https://fred.stlouisfed.org/series/IMPGS  
+ Real Imports of Goods and Services,https://fred.stlouisfed.org/series/ND000342Q
+ Import Price Index (End Use): All Commodities ,https://fred.stlouisfed.org/series/IR
+ Real imports of goods and services,https://fred.stlouisfed.org/series/IMPGSC1
+Producer Price Index by Commodity: Transportation Services: Air Transportation of Freight,https://fred.stlouisfed.org/series/WPU3014
+"All Employees, Air Transportation ",https://fred.stlouisfed.org/series/CES4348100001
+Producer Price Index by Industry: Scheduled Passenger Air Transportation,https://fred.stlouisfed.org/series/PCU481111481111
+"Import Price Index (Harmonized System): Inorganic Chemicals; Organic or Inorganic Compounds of Precious Metals, of Rare-Earth Metals, of Radioactive Elements or of Isotopes",https://fred.stlouisfed.org/series/IP28
+Producer Price Index by Commodity: Nonmetallic Mineral Products: Ground or Treated Minerals and Earths,https://fred.stlouisfed.org/series/WPU13990209
+"Producer Price Index by Commodity: Nonmetallic Mineral Products: Treated Lightweight Aggregate and Crushed Slag, Minerals and Earths",https://fred.stlouisfed.org/series/WPU139902094
+Revolving Consumer Credit Owned and Securitized,https://fred.stlouisfed.org/series/REVOLSL
+"Revolving Consumer Credit Owned and Securitized, Flow ",https://fred.stlouisfed.org/series/FLREVOLSL 
+ Revolving Consumer Credit Owned and Securitized by Depository Institutions,https://fred.stlouisfed.org/series/DTCTLRHDNM
+ Revolving Consumer Credit Owned and Securitized by Nonfinancial Business,https://fred.stlouisfed.org/series/DTCTLRHNNM
+ Revolving Consumer Credit Owned and Securitized by Finance Companies,https://fred.stlouisfed.org/series/G19DTCTLRHFNM
+Federal Funds Effective Rate,https://fred.stlouisfed.org/series/FEDFUNDS
+ National Deposit Rates: Savings,https://fred.stlouisfed.org/series/SNDR
+Bank Prime Loan Rate Changes: Historical Dates of Changes and Rates,https://fred.stlouisfed.org/series/PRIME
+" Interest Rates and Price Indexes; Commercial Real Estate Price Index, Level ",https://fred.stlouisfed.org/series/BOGZ1FL075035503Q
+ Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for United States ,https://fred.stlouisfed.org/series/IR3TIB01USM156N
+ University of Michigan: Consumer Sentiment ,https://fred.stlouisfed.org/series/UMCSENT
+"Interest Rates and Price Indexes; 10-Year Treasury Yield, Level",https://fred.stlouisfed.org/series/BOGZ1FL073161113Q
+ ICE BofA US High Yield Index Effective Yield,https://fred.stlouisfed.org/series/BAMLH0A0HYM2EY
+" Interest Rates and Price Indexes; 3-Month Treasury Yield, Level",https://fred.stlouisfed.org/series/BOGZ1FL073161133Q
+ Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for United States ,https://fred.stlouisfed.org/series/IR3TIB01USM156N
+ Moody's Seasoned Baa Corporate Bond Yield,https://fred.stlouisfed.org/series/DBAA
+Moody's Seasoned Aaa Corporate Bond Yield Relative to Yield on 10-Year Treasury Constant Maturity,https://fred.stlouisfed.org/series/AAA10Y
+" Interest Rates and Price Indexes; 3-Month Treasury Yield, Level ",https://fred.stlouisfed.org/series/BOGZ1FL073161133Q
+Liabilities and Capital: Other Factors Draining Reserve Balances: Reserve Balances with Federal Reserve Banks: Week Average,https://fred.stlouisfed.org/series/WRESBAL
+ Interest Rate on Reserve Balances,https://fred.stlouisfed.org/series/IORB
+ Assets: Total Assets: Total Assets (Less Eliminations from Consolidation): Wednesday Level,https://fred.stlouisfed.org/series/WALCL
+ Currency in Circulation ,https://fred.stlouisfed.org/series/CURRCIR
+Monetary Base; Reserve Balances,https://fred.stlouisfed.org/series/BOGMBBM
+ Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for United States,"https://fred.stlouisfed.org/series/IRLTLT01USM156N"
+Corporate Profits After Tax (without IVA and CCAdj),https://fred.stlouisfed.org/series/CP
+ National income: Corporate profits before tax (without IVA and CCAdj),https://fred.stlouisfed.org/series/A053RC1Q027SBEA
+Corporate Profits After Tax with Inventory Valuation Adjustment (IVA) and Capital Consumption Adjustment (CCAdj),https://fred.stlouisfed.org/series/CPATAX
+Nonfinancial Corporate Business: Profits After Tax (without IVA and CCAdj),https://fred.stlouisfed.org/series/NFCPATAX
