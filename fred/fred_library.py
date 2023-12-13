@@ -42,7 +42,7 @@ def get_frequency_from_series(series_id):
         return [data["seriess"][0]['id'],data["seriess"][0]['frequency']]
     except KeyError:
         print(f"Key not present in {data} \n from the following data url {response.url  }")
-    data = response.json()
+    """ ??? data = response.json() ??? """
     
 
 
@@ -64,10 +64,12 @@ def single_request_test(series_id):
         
     }
 
-    
-    response = requests.get(base_url+obs_endpoint,params=obs_params)
-    data = response.json()
-    #print(data)
+    try:
+        response = requests.get(base_url+obs_endpoint,params=obs_params)
+        data =  response.json()
+        return data
+    except TimeoutError:
+        print(f"Key not present in {data} \n from the following data url {response.url  }")
             
     
     
