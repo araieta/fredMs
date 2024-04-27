@@ -1,6 +1,21 @@
 import requests
 
+'''
+File Service per scaricare, pulire, elaborare e imagazzinare i dati in un db tramite servizio api FRED.
+Tutti gli endpoint vengono estrapolati dal microservizio excelMS contenuto nell'architettura e poi passati qui.
 
+L'aggiunta di un Timeout di x-.secondi per ogni 119 richieste verso gli endpoint è dovuta al fatto che la piattaforma
+fred, consente solamente 120_req/session, queste richieste vengono elaborate direttamente e salvate su DB.
+
+questo service richiama una classe Model DTO per inviare i dati necessari. Tutti i dati scaricati procedono per la formula
+
+    RANGE( OLD_YEAR_AVAIBLE::ACTUAL_YEAR - ( 1 ) )
+
+Dopo di che sarà presente un database interno che contiene tutte quante le modifiche e i file scaricati per evitare ridondanze
+duplicati e falsi positivi.
+
+
+'''
 
 def _make_req(base_url, endpoint, param):
     try:
